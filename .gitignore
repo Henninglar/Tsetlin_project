@@ -1,0 +1,4 @@
+.venv
+.idea
+GraphTsetlinMachine
+**/__pycache__/
